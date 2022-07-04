@@ -25,22 +25,22 @@ The ready features are:
 ## Screenshots
 
 Bubble sorting:</br>
-<img src="screenshots/quick.gif?raw=true" width=320></br>
+<img src="screenshots/quick.gif?raw=true" width=240></br>
 
 Insert sorting:</br>
-<img src="screenshots/quick.gif?raw=true" width=320></br>
+<img src="screenshots/quick.gif?raw=true" width=240></br>
 
 Select sorting:</br>
-<img src="screenshots/quick.gif?raw=true" width=320></br>
+<img src="screenshots/quick.gif?raw=true" width=240></br>
 
 Quick sorting:</br>
-<img src="screenshots/quick.gif?raw=true" width=320></br>
+<img src="screenshots/quick.gif?raw=true" width=240></br>
 
 Merge sorting:</br>
-<img src="screenshots/quick.gif?raw=true" width=320></br>
+<img src="screenshots/quick.gif?raw=true" width=240></br>
 
 Heap sorting:</br>
-<img src="screenshots/quick.gif?raw=true" width=320></br>
+<img src="screenshots/quick.gif?raw=true" width=240></br>
 
 ## Learning Points
 
