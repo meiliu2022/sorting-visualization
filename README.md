@@ -25,7 +25,7 @@ The ready features are:
 ## Screenshots
 
 Bubble sorting:</br>
-<img src="https://github.com/meiliu2022/sorting-visualization/blob/main/screenshots/bubble.gif?raw=true"  width=50% height=50%></br>
+![]("https://github.com/meiliu2022/sorting-visualization/blob/main/screenshots/bubble.gif?raw=true"=100x)</br>
 
 Insert sorting:</br>
 <img src="https://github.com/meiliu2022/sorting-visualization/blob/main/screenshots/insert.gif?raw=true"  width=50% height=50%></br>
