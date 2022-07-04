@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="algorithm">
+        <item>Bubble</item>
+        <item>Insert</item>
+        <item>Select</item>
+        <item>Quick</item>
+        <item>Merge</item>
+        <item>Hill</item>
+        <item>Heap</item>
+    </string-array>
+</resources>

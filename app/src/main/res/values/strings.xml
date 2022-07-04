@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sorting Visualizer</string>
+    <string name="sort">Start</string>
+    <string name="code">Code</string>
+    <string name="empty_field_warning">Please enter "," to separate numbers.</string>
+    <string name="sort_finish">Sorting finished</string>
+</resources>
