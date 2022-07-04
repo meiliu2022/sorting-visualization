@@ -34,7 +34,7 @@ Select sorting:</br>
 <img src="https://github.com/meiliu2022/sorting-visualization/blob/main/screenshots/select.gif?raw=true" width="50%" height="50%"></br>
 
 Quick sorting:</br>
-<img src="screenshots/quick.gif?raw=true" width="50%" height="50%"></br>
+<img src="screenshots/quick.gif?raw=true" width=100></br>
 
 Merge sorting:</br>
 <img src="https://github.com/meiliu2022/sorting-visualization/blob/main/screenshots/merge.gif?raw=true"  width=50% height=50%></br>
