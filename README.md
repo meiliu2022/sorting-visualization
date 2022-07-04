@@ -25,22 +25,22 @@ The ready features are:
 ## Screenshots
 
 Bubble sorting:</br>
-![](https://github.com/meiliu2022/sorting-visualization/blob/main/screenshots/bubble.gif?raw=true)</br>
+<img src="screenshots/quick.gif?raw=true" width=320></br>
 
 Insert sorting:</br>
-![](screenshots/insert.gif?raw=true)</br>
+<img src="screenshots/quick.gif?raw=true" width=320></br>
 
 Select sorting:</br>
-<img src="https://github.com/meiliu2022/sorting-visualization/blob/main/screenshots/select.gif?raw=true" width="50%" height="50%"></br>
+<img src="screenshots/quick.gif?raw=true" width=320></br>
 
 Quick sorting:</br>
-<img src="screenshots/quick.gif?raw=true" width=100></br>
+<img src="screenshots/quick.gif?raw=true" width=320></br>
 
 Merge sorting:</br>
-<img src="https://github.com/meiliu2022/sorting-visualization/blob/main/screenshots/merge.gif?raw=true"  width=50% height=50%></br>
+<img src="screenshots/quick.gif?raw=true" width=320></br>
 
 Heap sorting:</br>
-<img src="https://github.com/meiliu2022/sorting-visualization/blob/main/screenshots/heap.gif?raw=true"  width=50% height=50%></br>
+<img src="screenshots/quick.gif?raw=true" width=320></br>
 
 ## Learning Points
 
